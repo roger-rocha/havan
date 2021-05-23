@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "sistema de operacoes": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
